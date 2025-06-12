@@ -4,6 +4,7 @@ A full-stack Job Portal built using the MERN (MongoDB, Express.js, React.js, Nod
 post jobs, filter listings**, and more. Designed to streamline the recruitment process for both job seekers and companies.
 
 ---
+
 ## 🚀 Features
 
 ### 👨‍💻 For Job Seekers
